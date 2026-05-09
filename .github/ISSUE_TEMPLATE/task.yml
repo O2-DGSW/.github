@@ -1,4 +1,4 @@
-name: 🔧 작업
+name: 작업
 description: 기능 개발 외 작업을 등록합니다 (refactor, chore, docs 등)
 title: "[Task] "
 labels: []

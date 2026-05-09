@@ -1,4 +1,4 @@
-name: 🐛 버그 리포트
+name: 버그 리포트
 description: 의도하지 않은 동작이나 오류를 제보합니다
 title: "[Bug] "
 labels: ["type: bug"]
